@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "VINOTHKUMAR PERUMAL",
+      "email": "vinothp17@gmail.com",
+      "contact": "9943684894",
+      "id": 1
+    },
+    {
+      "name": "THANGAPANDIAN PERUMAL",
+      "email": "prthangapandian@gmail.com",
+      "contact": "9159969450",
+      "id": 2
+    },
+    {
+      "name": "MUTHUKRISHNAN PERUMAL",
+      "email": "muthukrishnanpr@gmail.com",
+      "contact": "9786337914",
+      "id": 3
+    }
+  ]
+}
